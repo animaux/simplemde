@@ -95,6 +95,6 @@ text-decoration: none !important;
 border-bottom: 1px solid #3f69a5;
 }
 
-body .CodeMirror-wrap pre {
+body .CodeMirror-wrap pre .cm-url {
 word-break: break-all;
 }
