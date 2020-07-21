@@ -99,3 +99,7 @@ body .CodeMirror-wrap pre .cm-url,
 body .CodeMirror-wrap pre .cm-link {
 word-break: break-all;
 }
+
+body .CodeMirror pre {
+padding: 1px 4px;
+}
