@@ -11,7 +11,8 @@
 
 /* Editor font */
 .CodeMirror {
-  font-size: 110%;
+  font-size: 1em;
+  line-height: 1.45em;
 }
 
 /* Heading size */
@@ -98,8 +99,4 @@ border-bottom: 1px solid #3f69a5;
 body .CodeMirror-wrap pre .cm-url,
 body .CodeMirror-wrap pre .cm-link {
 word-break: break-all;
-}
-
-body .CodeMirror pre {
-padding: 1px 4px;
 }
