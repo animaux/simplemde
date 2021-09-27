@@ -13,6 +13,9 @@
 		</author>
 	</authors>
 	<releases>
+	  <release version="1.0.4" date="2021-09-27" min="2.6" max="2.x.x">
+			- A little styling
+		</release>
 	  <release version="1.0.3" date="2020-07-21" min="2.6" max="2.x.x">
 			- A little more line-height in codemirror lines
 		</release>
