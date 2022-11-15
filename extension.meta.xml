@@ -13,6 +13,9 @@
 		</author>
 	</authors>
 	<releases>
+	  <release version="1.0.5" date="2022-11-15" min="2.6" max="2.x.x">
+			- Some tiny tiny styling
+		</release>
 	  <release version="1.0.4" date="2021-09-27" min="2.6" max="2.x.x">
 			- A little styling
 		</release>
